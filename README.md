@@ -1,7 +1,7 @@
 
 
 
-![Project Architect drawio](https://github.com/avmistry3/Finalproj-FlipkartMobiles/assets/51489015/52ef4a40-9e06-4896-9dd5-b5c9534b4d23)
+
 
 
 
