@@ -1,0 +1,16 @@
+Brand,Best_Place_to_Buy,OS_Type
+Apple,Amazon,iOS
+realme,Flipkart,Realme UI
+SAMSUNG,eBay,Samsung One UI
+Google Pixel,Flipkart,Stock Android
+Xiaomi,Best Buy,MIUI
+Motorola,Kijiji,Stock Android
+ASUS,EBay,ZenUI
+IQOO,Flipkart,IQOO UI or IQOO OS
+vivo,Best Buy,Funtouch OS
+HTC,Costco,HTC Sense
+POCO,Flipkart,MIUI
+OPPO,FlipKart,ColorOS
+LG,Amazon,LG UX
+Nokia,Kijiji,Stock Android
+Lenovo,Best Buy,Vibe UI and ZUI
