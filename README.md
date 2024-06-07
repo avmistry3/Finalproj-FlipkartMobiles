@@ -25,7 +25,7 @@ Now lets look at the workflow of our pipeline:
 
             Data Quality Check: Before we enrich the data, there will be a data quality check done. 
             quality check, Data enrichment will be done. This will enhance the dataset with additional information. 
-            Following that, data aggregation will be done. Here the data is
+            Following that, data aggregation will be done. 
    
 5. Consumption: The data is loaded back into BigQuery, completing the pipeline.
    
